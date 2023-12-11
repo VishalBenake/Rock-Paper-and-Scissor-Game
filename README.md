@@ -5,10 +5,10 @@
 - And result of game is displayed.
 
 - <b>How to use :-</b>
-  <hr>
+<hr>
 - You can copy code from file and run in any online C++ compiler.
 - It can be run on any software which supports c++ compilation.
-
+ <hr>
 <b>Author :- </b>Code With Vishal <br>
 <b>Program Published :- </b>12-11-23 5:30 pm IST <br>
 <b>Youtube :- </b>Code With Vishal <br>
