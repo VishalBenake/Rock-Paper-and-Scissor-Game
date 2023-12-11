@@ -8,3 +8,7 @@
   <hr>
 - You can copy code from file and run in any online C++ compiler.
 - It can be run on any software which supports c++ compilation.
+
+<b>Author :- </b>Code With Vishal
+<b>Program Published :- </b>12-11-23 5:30 pm IST
+<b>Youtube :- </b>Code With Vishal
