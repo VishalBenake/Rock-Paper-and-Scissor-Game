@@ -7,4 +7,4 @@
 - <b>HOW TO USE :-</b>
   <hr>
 - You can copy code from file and run in any online C++ compiler.
-- or it can be run on any software which supports c++ compilation.
+- It can be run on any software which supports c++ compilation.
