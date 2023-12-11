@@ -77,7 +77,6 @@ int main() {
 }
 
 int computerchoice(int res){
-    
     srand(time(0));
     res = rand() % 3 + 1;
     return res;
